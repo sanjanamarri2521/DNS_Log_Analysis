@@ -9,7 +9,7 @@ By using Splunk SPL (Search Processing Language), the dashboard provides visibil
 
 ## Dashboard Visualizations
 
-Each panel below uses SPL queries to create a meaningful visualization. Add your screenshots to the `dashboard_screenshots/` folder and replace the placeholders with actual paths once uploaded.
+Each panel below uses SPL queries to create a meaningful visualization.
 
 ---
 
